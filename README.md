@@ -36,7 +36,3 @@ And in the nav section there is a section which displays the top 10 headlines of
    ```
    
    This is to run react app
-
-
-# Reference:        
-Here is the screencast video:  https://youtu.be/KOkoVG-7wlA
