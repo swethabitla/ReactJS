@@ -15,7 +15,7 @@ And in the nav section there is a section which displays the top 10 headlines of
 
    Example
    ```bash
-   cd downloads\SPA-Blog-master
+   cd downloads\ReactJS-master
    ```
    
 4. Run command    
