@@ -39,4 +39,4 @@ And in the nav section there is a section which displays the top 10 headlines of
 
 
 # Reference:        
-Here is the screencast video:  https://www.youtube.com/watch?v=OoCYWsIp_P0
+Here is the screencast video:  https://youtu.be/KOkoVG-7wlA
