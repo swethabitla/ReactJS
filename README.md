@@ -14,22 +14,26 @@ And in the nav section there is a section which displays the top 10 headlines of
 3. Change the directory to the folder where all code present         
 
    Example
-   bash
+   ```bash
    cd downloads\SPA-Blog-master
+   ```
    
 4. Run command    
-   bash
+   ```bash
    npm install
+   ```
    
    This Installs npm and creates node_modules folder which are required        
 5. Run command
-   bash
+   ```bash
    npm
+   ```
    
    This is to check the npm is installed or not.
 6. Run command
-   bash
+   ```bash
    npm start
+   ```
    
    This is to run react app
 
